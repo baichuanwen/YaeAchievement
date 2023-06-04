@@ -1,6 +1,15 @@
-cache
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
 .idea
-generated
-node_modules
-config.json
-package-lock.json
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+src/Proto/*
